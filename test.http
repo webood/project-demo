@@ -1,0 +1,10 @@
+# GET http://localhost:3000/api/products/getList
+
+POST http://localhost:3000/api/products/addProduct
+Content-Type: application/json
+
+{
+  "id": 8,
+  "name": "王五",
+  "type":"男"
+}
